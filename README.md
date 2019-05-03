@@ -27,7 +27,6 @@ MetaFile es un script para extraer metadatos de una imagen.
         4. Luego ejecuta el archivo "install.sh", como:
                 * bash install.sh
                 * ./install.sh
-
 	5. Ahora ya podras ejecutar el script "MetaExif", como:
                 * bash MetaExif
                 * ./MetaExif
