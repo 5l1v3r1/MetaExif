@@ -4,7 +4,8 @@
             | |\/| |/ _ \ __/ _' |  _| \ \/ / | |_
             | |  | |  __/ || (_| | |___ >  <| |  _|
             |_|  |_|\___|\__\__,_|_____/_/\_\_|_|   v1.0
-                                                                                              .:.:. Script encoded by: @JRIC2002 .:.:.
+
+	      .:.:. Script encoded by: @JRIC2002 .:.:.
       .:.:. Description: Extract Metadata from an Image  .:.:.
 
 MetaFile es un script para extraer metadatos de una imagen.
@@ -20,12 +21,14 @@ MetaFile es un script para extraer metadatos de una imagen.
                 * cd MetaExif
 
         3. Dar permiso a los siguientes archivos.
-                * chmod +x install.sh                                                           * chmod +x MetaExif
+                * chmod +x install.sh
+		* chmod +x MetaExif
 
         4. Luego ejecuta el archivo "install.sh", como:
                 * bash install.sh
                 * ./install.sh
-                                                                                        5. Ahora ya podras ejecutar el script "MetaExif", como:
+	
+	5. Ahora ya podras ejecutar el script "MetaExif", como:
                 * bash MetaExif
                 * ./MetaExif
 
