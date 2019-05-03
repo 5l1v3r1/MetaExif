@@ -32,5 +32,5 @@ MetaFile es un script para extraer metadatos de una imagen.
 		* bash MetaExif
 		* ./MetaExif
 
-NOTA IMPORTANTE: No me hago responsable por el mal uso que le den a este script.
+NOTA IMPORTANTE : No me hago responsable por el mal uso que le den a este script.
 
