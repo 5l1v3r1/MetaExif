@@ -26,7 +26,7 @@ apt install unstable-repo
 apt install exiv2
 
 echo ""
-printf "			$blue>> Instalacion Completa <<$white"
+printf "		      $blue>> Instalacion Completa <<$white"
 echo ""
 sleep 1
 
