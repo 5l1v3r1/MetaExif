@@ -1,5 +1,10 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
+# [*] Script: MetaExif
+# [*] Description: Extract Metadata from an Image
+# [*] Author: JRIC2002
+# [*] Date: 02/05/2019
+
 #COLORS
         export black='\033[1;30m'
         export red='\033[1;31m'
@@ -37,6 +42,7 @@ function inicio {
 
               $green.:.:.$blue Script encoded by:$white @JRIC2002 $green.:.:.$white
       $green.:.:.$blue Description:$white Extract Metadata from an Image  $green.:.:.$white
+
         "
 	sleep 1
 	echo ""
