@@ -15,20 +15,25 @@ MetaFile es un script para extraer metadatos de una imagen.
 >> PROCESO DE INSTALACION.
 
 	1.- Clonar el repositorio "MetaExif".
+
 		* git clone https://github.com/JRIC2002/MetaExif
 
 	2.- Entrar a la carpeta "MetaExif".
+
 		* cd MetaExif
 
 	3.- Dale permisos a los archivos "install.sh" y "MetaExif", como:
+
 		* chmod +x install.sh
 		* chmod +x MetaExif
 
 	4.- Luego ejecuta el archivo "install.sh", como:
+
 		* bash install.sh
 		* ./install.sh
 
 	5.- Ahora ya podras ejecutar el script "MetaExif", como:
+
 		* bash MetaExif
 		* ./MetaExif
 
