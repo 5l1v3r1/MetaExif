@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-# [*] Script: MetaExif
-# [*] Description: Extract Metadata from an Image
+# [*] Name of the Script: MetaExif
+# [*] Description: "Extract Metadata from an Image"
 # [*] Author: JRIC2002
 # [*] Date: 02/05/2019
 
