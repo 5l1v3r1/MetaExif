@@ -22,8 +22,8 @@ printf "$green[$white*$green]$yellow Instalando Paquetes...\n$white"
 echo ""
 sleep 3
 
-apt install unstable-repo
-apt install exiv2
+apt install unstable-repo -y
+apt install exiv2 -y
 
 echo ""
 printf "		      $blue>> Instalacion Completa <<$white"
