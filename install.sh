@@ -1,19 +1,22 @@
-#!/data/data/com.termux/files/usr/bin/bash
+#!/usr/bin/env bash
 
-# [*] Name of the Script: MetaExif
-# [*] Description: "Extract Metadata from an Image"
-# [*] Author: JRIC2002
-# [*] Date: 02/05/2019
+#[*] Name of the script: MetaExif
+#[*] Description: "Extract Metadata from an Image"
+#[*] Version: 1.0
+#[*] Author: JRIC2002
+#[*] Installer of the script: MetaExif
+#[*] Date of creation: 02/05/2019
+#[*] Date of last update: 30/04/2020
 
 #COLORS
-        export black='\033[1;30m'
-        export red='\033[1;31m'
-        export green='\033[1;32m'
-        export yellow='\033[1;33m'
-        export blue='\033[1;34m'
-        export magenta='\033[1;35m'
-        export cyan='\033[1;36m'
-        export white='\033[0m'
+black='\033[1;30m'
+red='\033[1;31m'
+green='\033[1;32m'
+yellow='\033[1;33m'
+blue='\033[1;34m'
+magenta='\033[1;35m'
+cyan='\033[1;36m'
+white='\033[0m'
 
 #INSTALANDO PAQUETES
 
